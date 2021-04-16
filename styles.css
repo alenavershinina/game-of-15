@@ -1,0 +1,27 @@
+body {
+  font-family: 'Kiwi Maru', serif;
+  background-color: #eff7e1;
+  color: #214151;
+}
+
+table {
+  font-size: 40px;
+}
+
+table, th, td {
+  border: 5px solid #214151;
+  border-collapse: collapse;
+  background-color: #a2d0c1;
+}
+
+td {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+button {
+  margin: 10px;
+  cursor: pointer;
+}
